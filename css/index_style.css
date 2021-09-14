@@ -1,0 +1,18 @@
+
+.content{
+    filter: blur(5px);
+
+}
+
+
+
+
+.overlay{
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 366666666667987087;
+
+}
+
+.login{
+    background-color: rgba(0, 0, 128, 0.24);
+}
